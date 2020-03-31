@@ -1,0 +1,16 @@
+---
+title: "The Contribution of Chirality and Crosslinker Concentration to Reflection Wavelength Tuning in Structurally Chiral Nematic Gels."
+collection: publications
+permalink: /publication/11/6/13-The Contribution of Chirality and Crosslinker Concentration to Reflection Wavelength Tuning in Structurally Chiral Nematic Gels.
+excerpt: 'Tunable reflective material systems are potentially useful in a range of applications including displays, optical filters, photonics, and sensing. Presented here is a systematic study of thermally induced reflection wavelength tuning in structurally chiral nematic gels. The tuning is enabled by a swelling/de-swelling/re-swelling transition driven by order/disorder transitions in the liquid crystal and the liquid crystalline polymer network. By preparing liquid crystal polymer networks from single component liquid crystal monomers we isolate the contribution of chemical chirality and the crosslink density of the liquid crystal polymer network to thermally-induced reflection wavelength tuning. Further elucidating the fundamental relationships between the composition of the polymer network and the resulting optical properties is a key step towards enabling advancement and optimization necessary to realize the utility of this mechanism in devices such as mirrorless lasers.'
+date: 11/6/13
+venue: 'Journal of Materials Chemistry C'
+paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2014/tc/c3tc31432d'
+citation: 'Cazzell, S. A.; McConney, M. E.; Tondiglia, V. P.; Natarajan, L. V.; Bunning, T. J.; White, T. J. (2014). &quot;The Contribution of Chirality and Crosslinker Concentration to Reflection Wavelength Tuning in Structurally Chiral Nematic Gels.&quot; <i>J. Mater. Chem. C</i>. 2 (1), 132–138.'
+---
+
+<a href='https://pubs.rsc.org/en/content/articlelanding/2014/tc/c3tc31432d'>Download paper here</a>
+
+Tunable reflective material systems are potentially useful in a range of applications including displays, optical filters, photonics, and sensing. Presented here is a systematic study of thermally induced reflection wavelength tuning in structurally chiral nematic gels. The tuning is enabled by a swelling/de-swelling/re-swelling transition driven by order/disorder transitions in the liquid crystal and the liquid crystalline polymer network. By preparing liquid crystal polymer networks from single component liquid crystal monomers we isolate the contribution of chemical chirality and the crosslink density of the liquid crystal polymer network to thermally-induced reflection wavelength tuning. Further elucidating the fundamental relationships between the composition of the polymer network and the resulting optical properties is a key step towards enabling advancement and optimization necessary to realize the utility of this mechanism in devices such as mirrorless lasers.
+
+Recommended citation: Cazzell, S. A.; McConney, M. E.; Tondiglia, V. P.; Natarajan, L. V.; Bunning, T. J.; White, T. J. (2014). "The Contribution of Chirality and Crosslinker Concentration to Reflection Wavelength Tuning in Structurally Chiral Nematic Gels." <i>J. Mater. Chem. C</i>. 2 (1), 132–138.

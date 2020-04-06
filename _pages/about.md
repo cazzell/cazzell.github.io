@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Seth Cazzell's personal website. Currently underdevelopment.
+This is Seth Cazzell's personal website. Currently being developed!
 
 
